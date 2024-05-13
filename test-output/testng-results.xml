@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T10:00:01 IST" name="Suite" finished-at="2024-05-08T10:01:30 IST" duration-ms="88947">
+    <groups>
+      <group name="regression">
+        <method signature="TC_002_DefaultCountry.TestCase_002_DefaultCountry(java.lang.String)[pri:2, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_002_DefaultCountry" class="testCases.TC_002_DefaultCountry"/>
+        <method signature="TC_003_DefaultLanguage.TestCase_003_DefaultLanguage(java.lang.String)[pri:3, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_003_DefaultLanguage" class="testCases.TC_003_DefaultLanguage"/>
+        <method signature="TC_004_Languagelist.TestCase_004_Languagelist()[pri:4, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_004_Languagelist" class="testCases.TC_004_Languagelist"/>
+        <method signature="TC_005_Tooltips.TestCase_005_Tooltips(java.lang.String)[pri:5, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_005_Tooltips" class="testCases.TC_005_Tooltips"/>
+        <method signature="TC_002_DefaultCountry.TestCase_002_DefaultCountry(java.lang.String)[pri:2, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_002_DefaultCountry" class="testCases.TC_002_DefaultCountry"/>
+        <method signature="TC_003_DefaultLanguage.TestCase_003_DefaultLanguage(java.lang.String)[pri:3, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_003_DefaultLanguage" class="testCases.TC_003_DefaultLanguage"/>
+        <method signature="TC_004_Languagelist.TestCase_004_Languagelist()[pri:4, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_004_Languagelist" class="testCases.TC_004_Languagelist"/>
+        <method signature="TC_005_Tooltips.TestCase_005_Tooltips(java.lang.String)[pri:5, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_005_Tooltips" class="testCases.TC_005_Tooltips"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_001_WelcomeMessage.TestCase_001_WelcomeMessage(java.lang.String)[pri:1, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_001_WelcomeMessage" class="testCases.TC_001_WelcomeMessage"/>
+        <method signature="TC_002_DefaultCountry.TestCase_002_DefaultCountry(java.lang.String)[pri:2, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_002_DefaultCountry" class="testCases.TC_002_DefaultCountry"/>
+        <method signature="TC_003_DefaultLanguage.TestCase_003_DefaultLanguage(java.lang.String)[pri:3, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_003_DefaultLanguage" class="testCases.TC_003_DefaultLanguage"/>
+        <method signature="TC_004_Languagelist.TestCase_004_Languagelist()[pri:4, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_004_Languagelist" class="testCases.TC_004_Languagelist"/>
+        <method signature="TC_005_Tooltips.TestCase_005_Tooltips(java.lang.String)[pri:5, instance:testCases.TC_005_Tooltips@1165b38]" name="TestCase_005_Tooltips" class="testCases.TC_005_Tooltips"/>
+        <method signature="TC_001_WelcomeMessage.TestCase_001_WelcomeMessage(java.lang.String)[pri:1, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_001_WelcomeMessage" class="testCases.TC_001_WelcomeMessage"/>
+        <method signature="TC_002_DefaultCountry.TestCase_002_DefaultCountry(java.lang.String)[pri:2, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_002_DefaultCountry" class="testCases.TC_002_DefaultCountry"/>
+        <method signature="TC_003_DefaultLanguage.TestCase_003_DefaultLanguage(java.lang.String)[pri:3, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_003_DefaultLanguage" class="testCases.TC_003_DefaultLanguage"/>
+        <method signature="TC_004_Languagelist.TestCase_004_Languagelist()[pri:4, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_004_Languagelist" class="testCases.TC_004_Languagelist"/>
+        <method signature="TC_005_Tooltips.TestCase_005_Tooltips(java.lang.String)[pri:5, instance:testCases.TC_005_Tooltips@7bedc48a]" name="TestCase_005_Tooltips" class="testCases.TC_005_Tooltips"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-05-08T10:00:01 IST" name="EdgeTest" finished-at="2024-05-08T10:01:30 IST" duration-ms="88946">
+      <class name="testCases.TC_005_Tooltips">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:00:01 IST" name="setup" finished-at="2024-05-08T10:00:16 IST" duration-ms="14605" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WINDOW]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestCase_001_WelcomeMessage(java.lang.String)[pri:1, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:00:17 IST" name="TestCase_001_WelcomeMessage" data-provider="WelcomeMessage" finished-at="2024-05-08T10:00:52 IST" duration-ms="35687" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Welcome to the all-in-one Live Support!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_001_WelcomeMessage -->
+        <test-method signature="TestCase_002_DefaultCountry(java.lang.String)[pri:2, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:00:53 IST" name="TestCase_002_DefaultCountry" data-provider="DataCountry" finished-at="2024-05-08T10:00:53 IST" depends-on-methods="testCases.TC_001_WelcomeMessage.TestCase_001_WelcomeMessage" duration-ms="90" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_002_DefaultCountry -->
+        <test-method signature="TestCase_003_DefaultLanguage(java.lang.String)[pri:3, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:00:53 IST" name="TestCase_003_DefaultLanguage" data-provider="DataLanguage" finished-at="2024-05-08T10:00:53 IST" depends-on-methods="testCases.TC_002_DefaultCountry.TestCase_002_DefaultCountry, testCases.TC_001_WelcomeMessage.TestCase_001_WelcomeMessage" duration-ms="103" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_003_DefaultLanguage -->
+        <test-method signature="TestCase_004_Languagelist()[pri:4, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:00:53 IST" name="TestCase_004_Languagelist" finished-at="2024-05-08T10:00:58 IST" depends-on-methods="testCases.TC_003_DefaultLanguage.TestCase_003_DefaultLanguage" duration-ms="5305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_004_Languagelist -->
+        <test-method signature="TestCase_005_Tooltips(java.lang.String)[pri:5, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:00:59 IST" name="TestCase_005_Tooltips" data-provider="Country Tooltip" finished-at="2024-05-08T10:01:12 IST" depends-on-methods="testCases.TC_004_Languagelist.TestCase_004_Languagelist" duration-ms="13585" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_005_Tooltips -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_Tooltips@7bedc48a]" started-at="2024-05-08T10:01:12 IST" name="tearDown" finished-at="2024-05-08T10:01:30 IST" duration-ms="17793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_005_Tooltips -->
+    </test> <!-- EdgeTest -->
+    <test started-at="2024-05-08T10:00:01 IST" name="ChromeTest" finished-at="2024-05-08T10:01:30 IST" duration-ms="88947">
+      <class name="testCases.TC_005_Tooltips">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:00:01 IST" name="setup" finished-at="2024-05-08T10:00:16 IST" duration-ms="14243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[WINDOW]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestCase_001_WelcomeMessage(java.lang.String)[pri:1, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:00:17 IST" name="TestCase_001_WelcomeMessage" data-provider="WelcomeMessage" finished-at="2024-05-08T10:00:52 IST" duration-ms="35655" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Welcome to the all-in-one Live Support!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_001_WelcomeMessage -->
+        <test-method signature="TestCase_002_DefaultCountry(java.lang.String)[pri:2, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:00:53 IST" name="TestCase_002_DefaultCountry" data-provider="DataCountry" finished-at="2024-05-08T10:00:53 IST" depends-on-methods="testCases.TC_001_WelcomeMessage.TestCase_001_WelcomeMessage" duration-ms="23" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_002_DefaultCountry -->
+        <test-method signature="TestCase_003_DefaultLanguage(java.lang.String)[pri:3, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:00:53 IST" name="TestCase_003_DefaultLanguage" data-provider="DataLanguage" finished-at="2024-05-08T10:00:53 IST" depends-on-methods="testCases.TC_002_DefaultCountry.TestCase_002_DefaultCountry, testCases.TC_001_WelcomeMessage.TestCase_001_WelcomeMessage" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[English]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_003_DefaultLanguage -->
+        <test-method signature="TestCase_004_Languagelist()[pri:4, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:00:53 IST" name="TestCase_004_Languagelist" finished-at="2024-05-08T10:00:58 IST" depends-on-methods="testCases.TC_003_DefaultLanguage.TestCase_003_DefaultLanguage" duration-ms="5201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_004_Languagelist -->
+        <test-method signature="TestCase_005_Tooltips(java.lang.String)[pri:5, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:00:58 IST" name="TestCase_005_Tooltips" data-provider="Country Tooltip" finished-at="2024-05-08T10:01:12 IST" depends-on-methods="testCases.TC_004_Languagelist.TestCase_004_Languagelist" duration-ms="13555" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_005_Tooltips -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_005_Tooltips@1165b38]" started-at="2024-05-08T10:01:12 IST" name="tearDown" finished-at="2024-05-08T10:01:30 IST" duration-ms="17982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_005_Tooltips -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

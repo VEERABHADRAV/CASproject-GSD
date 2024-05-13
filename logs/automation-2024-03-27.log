@@ -1,0 +1,49 @@
+21:40:24.658 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - -----Testing Started------
+21:40:35.181 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:40:35.203 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:40:36.989 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 1 START******
+21:40:38.829 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:40:38.832 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:40:38.891 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - *****Test case 1 START******
+21:40:50.381 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Getting User Details
+21:40:50.381 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Navigating to OneC portal
+21:40:50.537 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - One Cognizant Page
+21:40:50.567 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Searching a GSD in search button and Click GSD
+21:40:52.257 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Getting User Details
+21:40:52.257 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Navigating to OneC portal
+21:40:52.539 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - One Cognizant Page
+21:40:52.540 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Searching a GSD in search button and Click GSD
+21:40:55.562 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - --GSD Page--
+21:40:59.402 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Success Message is Displayed
+21:41:00.218 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - --GSD Page--
+21:41:04.495 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Validate the Success Message
+21:41:04.497 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Test Cases 1 passes Succes Message
+21:41:05.440 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Success Message is Displayed
+21:41:07.513 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 1 END******
+21:41:07.724 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:41:07.725 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:41:07.749 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 2 START******
+21:41:07.749 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Check Default Country
+21:41:07.784 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Validate the Country
+21:41:07.785 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Default Country is Passed
+21:41:07.785 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 2 END******
+21:41:07.977 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:41:07.979 [TestNG-tests-2] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:41:08.009 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 3 START******
+21:41:08.009 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Check Default Language
+21:41:08.060 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Validate the default Language
+21:41:08.060 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Default Language is Passed
+21:41:08.061 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 3 END******
+21:41:08.266 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - *****Test case 4 START******
+21:41:08.267 [TestNG-tests-2] INFO  testCases.TC_005_Tooltips - Getting List of the Languages
+21:41:10.701 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Validate the Success Message
+21:41:10.701 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Test Cases 1 passes Succes Message
+21:41:13.703 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - *****Test case 1 END******
+21:41:13.933 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:41:13.935 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:41:13.961 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - *****Test case 2 START******
+21:41:13.963 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Check Default Country
+21:41:13.999 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Validate the Country
+21:41:13.999 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - Default Country is Passed
+21:41:14.000 [TestNG-tests-1] INFO  testCases.TC_005_Tooltips - *****Test case 2 END******
+21:41:14.181 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels

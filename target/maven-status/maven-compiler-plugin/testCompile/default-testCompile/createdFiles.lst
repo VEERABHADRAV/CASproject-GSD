@@ -1,0 +1,13 @@
+testCases\TC_005_Tooltips.class
+testCases\TC_001_WelcomeMessage.class
+pageObject\BeCognizantPage.class
+utilities\ExcelUtility.class
+pageObject\GsdPage.class
+testCases\TC_002_DefaultCountry.class
+utilities\ExtentReportManager.class
+testCases\TC_004_Languagelist.class
+pageObject\OneCognizant.class
+utilities\DataProviders.class
+baseClass\Baseclass.class
+pageObject\BasePage.class
+testCases\TC_003_DefaultLanguage.class

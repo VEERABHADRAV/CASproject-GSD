@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="testCases.TC_005_Tooltips">
+        <methods>
+          <include name="TestCase_001_WelcomeMessage"/>
+          <include name="TestCase_005_Tooltips"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TestCase_003_DefaultLanguage"/>
+          <include name="TestCase_002_DefaultCountry"/>
+          <include name="TestCase_004_Languagelist"/>
+        </methods>
+      </class> <!-- testCases.TC_005_Tooltips -->
+      <class name="testCases.TC_001_WelcomeMessage">
+        <methods>
+          <include name="TestCase_001_WelcomeMessage"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testCases.TC_001_WelcomeMessage -->
+      <class name="testCases.TC_004_Languagelist">
+        <methods>
+          <include name="TestCase_001_WelcomeMessage"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TestCase_003_DefaultLanguage"/>
+          <include name="TestCase_002_DefaultCountry"/>
+          <include name="TestCase_004_Languagelist"/>
+        </methods>
+      </class> <!-- testCases.TC_004_Languagelist -->
+      <class name="testCases.TC_002_DefaultCountry">
+        <methods>
+          <include name="TestCase_001_WelcomeMessage"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TestCase_002_DefaultCountry"/>
+        </methods>
+      </class> <!-- testCases.TC_002_DefaultCountry -->
+      <class name="testCases.TC_003_DefaultLanguage">
+        <methods>
+          <include name="TestCase_001_WelcomeMessage"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="TestCase_003_DefaultLanguage"/>
+          <include name="TestCase_002_DefaultCountry"/>
+        </methods>
+      </class> <!-- testCases.TC_003_DefaultLanguage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
